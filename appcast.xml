@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vega Code</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Wed, 22 Jul 2026 12:10:36 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="RJVoXCdbmyTKzkttqSnyeSXAbgs3PvYCMRsowaA/03xE8nj7AVbniA/nLXi+3EYX2bmyGul+6hlJ7Tkiht7fAg==" sparkle:length="251">https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.3.zip" length="7059072" type="application/octet-stream" sparkle:edSignature="l4kUxfYH9EzcgD8SrBH084wtDX7Bi7bAsmV/2Ouv8obbzjZv9RMZjZKvqZ++H25Qy9/gmnMFPWUIl0AFLjKODg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code4-3.delta" sparkle:deltaFrom="3" length="400430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aX/wl+sewtTpFxG5/RPhOy3Tz143361yZnlgd6PtODmSxlMfKb4aAumV3wk7WXbk2gVOz0jtmAsweH/PLHh9DA=="/>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code4-2.delta" sparkle:deltaFrom="2" length="450662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JXoVY2rAocP5D9MmsxvfmzeRjKH07f7xKKnnb0Fuxks6j659vmXa8JMsndbRcthLMQwepML6U63j/nikSNz0Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Wed, 22 Jul 2026 11:52:22 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -31,6 +45,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 5vAo8Iys+kXeSojYEqHzt90TKwhx/Lz/BeEwPSb1gaNCHAUC+8fcE1EXI3PUTkYyERYeUbJOhRfsgBOsd1M5DA==
-length: 2732
+edSignature: 33etWT/PRurZEfFt1u4NTlqvVI1udoPEXVX8E6Vf4YEAgvzBHPH9Lqlndo7quEdkS/+t8/J62EYVtXvtKE0MBg==
+length: 4490
 -->
