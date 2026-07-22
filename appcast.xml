@@ -1,8 +1,23 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Vega Code</title>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Wed, 22 Jul 2026 11:52:22 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="h7fyy/DSreTnPo3nGQ8/E+TFoJWyhJF34QmwXFnurz9GvDOfENl+q+bQWumcGdCQ8fgoZOtYK5vDWXs2iRXSAg==" sparkle:length="251">https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.2.zip" length="7050219" type="application/octet-stream" sparkle:edSignature="lnKM9Vm6AD65LU1O4qiEisiACrdv7RoDzJgrnvAjQHFeAuNbIS+/isY6gPXR1vaelgAkbkYinOfg6OZtnwzMAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code3-2.delta" sparkle:deltaFrom="2" length="345442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CneHtpg/vylKZeVqh5GVNDu0wQTDJrsUOnwMy6SMPi/GBtFAKMtmJ6O2ouZeR7zBsH27UMJXvZwNHdWvzMjUBQ=="/>
+            </sparkle:deltas>
+        </item>
         <item>
             <title>0.1.1</title>
             <pubDate>Wed, 22 Jul 2026 11:37:25 +0000</pubDate>
@@ -11,10 +26,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink sparkle:edSignature="KcfCXXGkMHW4kIaN2a5o6/pS9RRZs4wOSFhS64jlshthh4L+IT5MjND1cF1llqnOecjDpjnKV4fAB5gmiqvPBg==" sparkle:length="251">https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.1.zip" length="7046608" type="application/octet-stream" sparkle:edSignature="n7TPct5snejrV2W54MSxEKAWxH2bnLuUxoybVWqPPKJFsQG30fqR13BQiFRT5U8ZZOm81WTP3/YaUjRbLkcXCQ=="></enclosure>
+            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.1.zip" length="7046608" type="application/octet-stream" sparkle:edSignature="n7TPct5snejrV2W54MSxEKAWxH2bnLuUxoybVWqPPKJFsQG30fqR13BQiFRT5U8ZZOm81WTP3/YaUjRbLkcXCQ=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: Xuvx7c/1qrbHrQ3gUiV78vPTNfISPFsEvdKkMZ/zaHR0mbyRR5Pf8Ce5W9yEz5H5tRZLmbjrqqpCsMdTTBNECg==
-length: 1368
+</rss>
+<!-- sparkle-signatures:
+edSignature: 5vAo8Iys+kXeSojYEqHzt90TKwhx/Lz/BeEwPSb1gaNCHAUC+8fcE1EXI3PUTkYyERYeUbJOhRfsgBOsd1M5DA==
+length: 2732
 -->
