@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vega Code</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Wed, 22 Jul 2026 12:21:05 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="OhL53uOztvQikvSJBCpVeBzXoqAVGU+rDKp2GD5nyBSop283m4MWkNiYaJ/7VTnsg5uOiHsaJMnzBcYJN61WDg==" sparkle:length="251">https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.4.md</sparkle:releaseNotesLink>
+            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.4.zip" length="7059060" type="application/octet-stream" sparkle:edSignature="ndfs6NdNgKXm7RSnvpVsBEtjhCVqJCeNH6ppenYZK9QhXEUShV5nCLvc6mc420thaKCZa8+3e97tvjhZQLsMBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code5-4.delta" sparkle:deltaFrom="4" length="20366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Be/3FeYqPgbAJIa/QiDLtuBQp3GScns/TlxDV1fcg7MEQPNxvuFjWSLHm1fDeQw2RwIwWs070LyfAxfS5Nn6DQ=="/>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code5-3.delta" sparkle:deltaFrom="3" length="400590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e+98wUDkp7Z4icA/++rQBFzxgNSumk6jriu6GTjLwZEosOxxIrIdwweD5skFBqXYsT+gPpm1ugXxaUpMJIlfDA=="/>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code5-2.delta" sparkle:deltaFrom="2" length="449834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IikJ8jdWPBvNxiAbPfok0CGXWZwk5YA1k7VDtosPvm0gMoUZL1rzOweNiHhJxFafPVsMIJoXAcZ9Uh7bGxkyAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Wed, 22 Jul 2026 12:10:36 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -32,19 +47,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code3-2.delta" sparkle:deltaFrom="2" length="345442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CneHtpg/vylKZeVqh5GVNDu0wQTDJrsUOnwMy6SMPi/GBtFAKMtmJ6O2ouZeR7zBsH27UMJXvZwNHdWvzMjUBQ=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Wed, 22 Jul 2026 11:37:25 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="KcfCXXGkMHW4kIaN2a5o6/pS9RRZs4wOSFhS64jlshthh4L+IT5MjND1cF1llqnOecjDpjnKV4fAB5gmiqvPBg==" sparkle:length="251">https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.1.zip" length="7046608" type="application/octet-stream" sparkle:edSignature="n7TPct5snejrV2W54MSxEKAWxH2bnLuUxoybVWqPPKJFsQG30fqR13BQiFRT5U8ZZOm81WTP3/YaUjRbLkcXCQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 33etWT/PRurZEfFt1u4NTlqvVI1udoPEXVX8E6Vf4YEAgvzBHPH9Lqlndo7quEdkS/+t8/J62EYVtXvtKE0MBg==
-length: 4490
+edSignature: 68BQ68iw+HjB0JqPJbHMGInrzxF/aste4Ec87EIVh83uBpmhKtyAN6WAdnPGG7d+5M8aTEawNS1KVxPQmYkODg==
+length: 5706
 -->
