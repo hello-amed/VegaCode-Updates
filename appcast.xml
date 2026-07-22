@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Vega Code</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 22 Jul 2026 11:37:25 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="KcfCXXGkMHW4kIaN2a5o6/pS9RRZs4wOSFhS64jlshthh4L+IT5MjND1cF1llqnOecjDpjnKV4fAB5gmiqvPBg==" sparkle:length="251">https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.1.zip" length="7046608" type="application/octet-stream" sparkle:edSignature="n7TPct5snejrV2W54MSxEKAWxH2bnLuUxoybVWqPPKJFsQG30fqR13BQiFRT5U8ZZOm81WTP3/YaUjRbLkcXCQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Xuvx7c/1qrbHrQ3gUiV78vPTNfISPFsEvdKkMZ/zaHR0mbyRR5Pf8Ce5W9yEz5H5tRZLmbjrqqpCsMdTTBNECg==
+length: 1368
+-->
