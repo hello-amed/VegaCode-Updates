@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vega Code</title>
         <item>
+            <title>0.1.10</title>
+            <pubDate>Thu, 23 Jul 2026 11:37:43 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="9UzwBsEqVGaGiRTXxK7xV96PHmcBZBAR6TanNL4Z6zcdepleBXjQWRaYp6R7Zr1OLVUNE0sJWfsyH5fNbrF+Dw==" sparkle:length="682">https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.10.md</sparkle:releaseNotesLink>
+            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.10.zip" length="8133083" type="application/octet-stream" sparkle:edSignature="rFyKzCQfTjs/T6yF9P/usMtuMlY93pHFE7MoU53wpRVuuQXpG5Uiz90Ls8xmJtQBvqw1c7c8CLWIkOhB7rGOAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code11-10.delta" sparkle:deltaFrom="10" length="654322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Th1e4xYrbGL0YelrNKaesRJFRmICmQlg9MsxzxIjpaDbwjicqbXacsjO+OUeQOnwHh4yAfzIuOIfZlnH/WlYCA=="/>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code11-9.delta" sparkle:deltaFrom="9" length="660502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CAzThFdFtL/qzoP/ikhLmu0KOPYhEkJ2OONm48XlGsJ7xacCJFv1h32aQHRCqQEJKnlHaJip5eqD9kntU8UbAA=="/>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code11-8.delta" sparkle:deltaFrom="8" length="685930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZCE+HC2xeRtD+ZIYoLnNleB2r/yEVT9a6oeDNQswQvINf//atbi54cQxQsGH23MO/Gy81HleSqCKbFStwMvqBg=="/>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code11-7.delta" sparkle:deltaFrom="7" length="743366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SsDbHjFVqSAFZjx0ARbuFreBau1y41pIe1655QvlSbtKLw+ESjvhw98XiUBgDjwN4V9pKqV/03p6bh8jEKOGBA=="/>
+                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code11-6.delta" sparkle:deltaFrom="6" length="757862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dLzJUaU6PfbI/ImwoCRxSaFhlitPND8obIauZQWKB3efiZcV3do9PKpIlggjwRn6qc1YfF8uD2nbJw9oWtZPAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.9</title>
             <pubDate>Thu, 23 Jul 2026 06:50:27 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -39,26 +56,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code9-4.delta" sparkle:deltaFrom="4" length="1528878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UaGR5P+n9UTM/+Ih8tcVEqYph8+fvEpoO8NYNxJIWI03NLleZ6xT03VGOyGC5v/wlK7i9K1jmekYQJahV3GhBA=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>0.1.7</title>
-            <pubDate>Thu, 23 Jul 2026 04:37:51 +0000</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="1yJyeRbd8s9tT8MrTqVf5uGJ2oyRSFVZ/7MRRZQMUIYZcmB9hdRnjvsLrZOTNahVTDxTiF4+7XOXvDMzGh7pDg==" sparkle:length="521">https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.7.md</sparkle:releaseNotesLink>
-            <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega-Code-0.1.7.zip" length="8066972" type="application/octet-stream" sparkle:edSignature="AJoRqdOsZlVYaQXC1dP+EBrMMbYUTAxqMgcVayU+L0r/Tk7RzaQ20ZSgfBkx1UjkjyUUnU2bTTcFl/ZXghx0DA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code8-7.delta" sparkle:deltaFrom="7" length="495462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sd8Qmv12xYMuHdJ4GBD6xe2eIEGUS7wISy4eCTbrVs6wWUOWBflUADxnTE3S5n7BxXkofN+RdsRi5LgJNNyzAw=="/>
-                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code8-6.delta" sparkle:deltaFrom="6" length="546730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dEaXn3gZ9mWoqFYCJ5KVw0PrNime5UzHgOSqV8tOVLxGstDQzCyeibvJ++/OOZQf+ZalPcwgqDcrONTXHjtPCg=="/>
-                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code8-5.delta" sparkle:deltaFrom="5" length="1483494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BH0U63TuC66UQIbjCZMpnhAJA44fmZyCElpr1jaOujmUWFKtVDmo9A6Q6MoK2oHcRUnHS2wZtPQPuoeoj3BuBg=="/>
-                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code8-4.delta" sparkle:deltaFrom="4" length="1479842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nERRQLIS0X3rRMXFRFJy89vuX3huFc6RDLKobXvxqPUgtCryqLsHBDKNBY3pDn3jfcjaGoprNSgRLNke0OA2Dg=="/>
-                <enclosure url="https://hello-amed.github.io/VegaCode-Updates/Vega%20Code8-3.delta" sparkle:deltaFrom="3" length="1498090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZRSqcnsY/PuvHUgLGcljZh1fyoYWRR9I9yVqX7IWjsaxUvs2yrSHlJCX4FHm6s/fHjO86fTZ+dBfupzW3pzIAg=="/>
-            </sparkle:deltas>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: SQGTesWMsm05jEzIJ5ZQez+ZA5VoZo2wPhVaFXnFgrljUQCAhI56Gn9YnlPu144XCMnnTMheKV1tDlMu5sz0DA==
-length: 9193
+edSignature: IibtYtmI13ySMT9CK7uHrjPiZsCqH2ABkOM6H8mAscITrdmKO0+aYFqzKnUaddlrQB/zp4u4QQ8hnNVh8tSDDg==
+length: 9202
 -->
